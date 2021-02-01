@@ -1,2 +1,1 @@
-
-int g_val = 2021;
+#define _CRT_SECURE_NO_WARNINGS 1
